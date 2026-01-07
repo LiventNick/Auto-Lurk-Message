@@ -21,10 +21,10 @@
    * CONFIG – MESSAGES
    ******************************/
   const MESSAGES = [
-    "jazzbo1Popcorn ",
-    "HenloThere ",
-    "jazzbo1Fire ",
-    "SpillTheTea "
+    "Hey there!",
+    "Just Lurking Over here, don't mind me",
+    "Do you know the muffin man?",
+    "Quackers"
   ];
 
   const STORAGE_KEY = 'autoLurkEnabled';
