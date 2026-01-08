@@ -82,9 +82,9 @@ const MIN_DELAY_MINUTES = 15;
 const MAX_DELAY_MINUTES = 25;
 
 const MESSAGES = [
-"jazzbo1Popcorn ",
-"HenloThere ",
-"jazzbo1Fire ",
-"SpillTheTea "
-];
+    "Hey there!",
+    "Just Lurking Over here, don't mind me",
+    "Do you know the muffin man?",
+    "Quackers"
+  ];
 ```
