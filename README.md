@@ -26,7 +26,7 @@ A Twitch userscript that automatically sends periodic chat messages while you lu
 - **Safe Chat Injection**  
   Messages are pasted into the chat box and sent normally.
 
-## ⭐ Why This Script Exists (Easy Explanation)
+## ⭐ Why This Script Exists
 Twitch doesn’t officially document how it decides who counts as an active viewer, but recently a lot of community testing has suggested something important:
 If you stay inactive for too long, Twitch may quietly stop counting you as a real viewer.
 
